@@ -9,3 +9,4 @@ for i in range(1, 11):
     multiplos_de_sete.append(multiplo)
 
 print(multiplos_de_sete)
+
